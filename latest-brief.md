@@ -6,52 +6,48 @@ _Bookmark this page — it's updated in place each day, so the link stays the sa
 
 # Hubert Work Briefing
 
-**Tuesday 29 September 2026** · Read time ~4 min · All times AEST (Sydney)
+**Thursday 1 October 2026** · Read time ~4 min · All times AEST (Sydney)
 
 ---
 
 ## 1. Today's Top Priorities & Deadlines
 
-- **Fix the 3D Safety induction status.** Maede Asgharpour flagged (Mon 28 Sep, 9:11pm) that your Malabar System Investment Program induction is still showing **incomplete**, despite your confirmation that it was done. Log back in and resolve this before tomorrow's Liverpool site induction.
-- **ExpenseMe supervisor approvals close today (EOD).** Part of the standard month-end finance calendar — confirm whether this applies to you yet as a new starter; action if it does.
-- **Mobile phone reimbursement — reply pending.** You sent Mel Espinosa the signed letter and plan evidence, and asked whether you'll be compensated differently since your plan isn't a fixed rate. No reply yet — chase if you don't hear back today.
-- **Optional:** AP team's September drop-in session is on today — worth a quick drop-by if you have any invoice/PO questions as you get set up in Pronto.
+- **Last day to raise September invoices (today).** Part of the month-end calendar (organised by Bec Douglas). Goods receipting and September progress claims closed EOD yesterday, so confirm yours went out.
+- **Prep for tomorrow (Fri 2 Oct), which is heavy:**
+  - Project forecasts updated in Pronto by EOD.
+  - Income accruals (progress claims/RCTIs not yet invoiced) and cost accruals, re-accruals and adjustments due.
+  - **Salaried timesheet for WE 6/10 is due Fri 2 Oct, 10am** (brought forward for the long weekend, per Emma St Clair).
+- **Mobile number / reimbursement is unresolved.** Payroll says reimbursement needs a current fixed-term plan, and yours is month-to-month. You've asked IT whether you can port 0415 222 688 over and whether any company usage restrictions apply. No IT reply seen yet, so chase it.
 
 ## 2. Meetings, Commitments & Follow-ups
 
-- **Wed 30 Sep — Liverpool site induction.** Booked by Chris Sinclair (GM NSW) at Maede/Anil's request. Note: your induction/site paperwork is under **Junqi Lin** (name on your white card/licence) — make sure the 3D Safety code issue above is cleared first.
-- **Month-end finance deadlines** (all-day, org-wide, organised by Bec Douglas — confirm which apply to your projects):
-  - **Wed 30 Sep:** Goods receipting for September closes EOD; September progress claims to customers due EOD.
-  - **Thu 1 Oct:** Last day to raise September invoices.
-  - **Fri 2 Oct:** Project forecasts due in Pronto EOD; income accruals (progress claims/RCTIs not yet invoiced) and cost accruals/adjustments due.
-- **Onboarding admin still open:** uniform order F272-04959 (awaiting manager approval); light vehicle F069 allocation confirmed (S496BHG checked out); IT ticket 204641 (vehicle transfer) — response due within 2 business days of Mon 28 Sep.
+- **Long weekend:** Labour Day (NSW/SA) on Mon 5 Oct. NSW daylight saving starts Sun 4 Oct. Plan site and claim deadlines around it.
+- **Malabar:** Robert Shah (RCE Projects) sent the docs yesterday with a caveat: **don't rely on them as contract documents**, as there have been changes. You've noted a decent cut/fill balance and a likely over-excavation from demolition. Worth confirming which revision governs before you price or plan earthworks quantities.
+- **Liverpool site induction** was booked for Wed 30 Sep, 7:30am. I can't confirm from email whether the 3D Safety code issue was cleared. If it wasn't, close it out before you're next on site.
+- **PPE:** Civil Admin issued updated minimum PPE requirements (phased rollout, applies to new orders). Read the attachment before your next order.
+- **Onboarding admin:** uniform order F272-04959 awaiting manager approval; IT ticket 204641 (vehicle transfer). Print fob is now activated and on your desk.
+- **Teams:** Shashika Samarawickrama tried to reach you on Teams and you replied on the TMA Live invitation. Check that nothing else is pending.
 
-## 3. Australian Construction / Civil / Remediation — Last 24–72 Hours
+## 3. Australian Construction / Civil / Remediation: Last 24-72 Hours
 
-Genuine breaking news in this exact window was limited to one item. It's flagged below, followed by still-current developments worth knowing even though they surfaced slightly earlier in September.
+1. **$624M Elizabeth Drive + Mamre Road Stage 2 awarded to BMD/Gamuda JV (reported 30 Sep).** Design and construct for TfNSW, about 4.5 km of Elizabeth Drive and 3 km of Mamre Road. It follows the roughly $3B Western Sydney road package announced around 21-22 Sep, which included Fulton Hogan on Garfield Road East ($440M) and BMD on Auld Ave to M5 ($247M). Expect subcontract and earthworks/utilities demand in Western Sydney. - [Roads & Infrastructure](https://roadsonline.com.au/jv-awarded-624m-works) · [Roads & Infrastructure](https://roadsonline.com.au/contracts-awarded-for-3b-road-works-in-nsw)
+2. **Ultimo demolition site, second structural failure (Sat 27 Sep).** Scaffolding fell onto parked cars in high wind, with no injuries. This is the same site where a wall and roof collapse on 3 Aug seriously injured two men. SafeWork NSW issued notices including a prohibition notice and is investigating. Expect heightened SafeWork attention on demolition and scaffold inspections. - [ABC News](https://www.abc.net.au/news/2026-09-27/sydney-building-collapses-ultimo-second-time-just-weeks-apart/107201530) · [Scaffold Magazine](https://scaffmag.com/scaffolding-news/global-news/australia-new-zealand/scaffold-collapses-at-sydney-site-weeks-after-two-workers-seriously-injured/)
+3. **NSW asbestos and recovered materials (standing, not new this week).** The NSW Asbestos Plan of Action (July 2026) responds to the Chief Scientist's review of recovered fines and beneficial reuse. Tier 2 asbestos offences carry penalties up to $4M for companies. The EPA also opened Site Auditor accreditation applications in July. Relevant if Malabar or Liverpool involves reuse of excavated or demolition material. - [NSW EPA](https://www.epa.nsw.gov.au/Your-environment/Recycling-and-reuse/resource-recovery-framework/management-asbestos-recovered) · [NSW EPA contaminated land updates](https://www.epa.nsw.gov.au/Your-environment/Contaminated-land/Stay-up-to-date)
+4. **Materials costs (ongoing, no sharp new move in the last 72 hours).** Fuel-linked surcharges (concrete delivery about $8-9/m3 from Holcim/Heidelberg) are starting to ease as energy markets settle after the Hormuz disruption. Reo and structural steel are up about 4-10% year-on-year, and aggregates up about 5-10%. RLB puts 2026 cost growth at 4-6% across the capitals. - [RLB Q2 2026](https://www.rlb.com/insights/oceania/australia-market-intelligence-q2-2026/australia-summary) · [Grafa](https://grafa.com/en/news/australia/cement-giants-hike-prices-as-building-costs-surge)
 
-1. **Repeat structural failure at Ultimo demolition site, Sydney (Sat 27 Sep).** Scaffolding on Wattle Street fell onto parked cars in high winds — the same site where a wall collapse injured two workers weeks earlier. No injuries this time. SafeWork NSW attended and issued a prohibition notice; investigation ongoing. — [ABC News](https://www.abc.net.au/news/2026-09-27/sydney-building-collapses-ultimo-second-time-just-weeks-apart/107201530)
-2. **NSW EPA tightening contaminated-land oversight (in effect from 1 Sep, still current).** Cost-recovery fee rose to $117/hr; the new National Harmonised Auditor Accreditation Process for site auditors began; EPA signalled a more proactive stance on flagging smaller/previously-overlooked contaminated sites. — [NSW EPA](https://www.epa.nsw.gov.au/Your-environment/Contaminated-land/Stay-up-to-date)
-3. **Cement and input costs still climbing (Q2/Q3 2026 trend, ongoing).** Concrete/cement up ~5.6% year-to-date, imported cement ~15%, driven by fuel-linked inputs. Steel/rebar is flat-to-down this quarter, but anti-dumping measures on imports could reverse that. — [Grafa](https://grafa.com/en/news/australia/cement-giants-hike-prices-as-building-costs-surge) · [Altus Group](https://www.altusgroup.com/insights/australian-construction-price-outlook-q2-2026/)
-4. **No new state-significant project award or major TfNSW contract announcement in the last 72 hours.** The bigger recent milestones — Western Harbour Tunnel TBM progress, Powerhouse Parramatta building completion, the Hunter M1 extension opening — all landed earlier in the month (or before) and aren't new this week; noted for completeness only.
+**No meaningful new update** found in the window for TfNSW/Infrastructure NSW policy changes or a new NSW EPA remediation enforcement action. The publisher behind several trade-news sources was blocked from this environment, so coverage of smaller contract announcements may be incomplete.
 
-**AI/digital construction:** nothing materially new broke this window. For context only: Australia already ranks 2nd globally on weekly construction-tech usage (Autodesk/Deloitte 2026 digital adoption survey, released mid-year) — a standing fact, not this week's news.
+**AI/digital construction:** nothing materially relevant in this window.
 
 ## 4. What This Means for Me
 
-- Raise the Ultimo repeat-collapse as a live example at tomorrow's Liverpool induction — worth asking how that site's scaffold inspection sign-off and high-wind stand-down triggers compare to what's in place there.
-- If any Malabar/Liverpool scopes touch notified or contaminated land, confirm the site auditor accreditation and current EPA cost-recovery rate before locking in timelines or budgets — oversight has genuinely tightened this month.
-- Nothing here should move your cost estimates today, but keep half an eye on cement/concrete pricing if you're about to quote or lock in any concrete-heavy packages.
+- **Western Sydney road awards:** subcontractor and plant demand will tighten. If you're sourcing earthworks, haulage or disposal capacity, lock in rates early.
+- **Ultimo repeat failure:** expect more SafeWork scrutiny of demolition and scaffold. Check the demolition scope at Malabar and the high-wind triggers and inspection sign-offs on site.
+- **Malabar over-excavation risk:** any surplus material reuse or off-site disposal should be checked against the asbestos and recovered-material rules before you assume reuse in the cut/fill balance.
+- **Cost assumptions:** fuel-linked surcharges are easing, but reo, steel and aggregate escalation remains. Don't drop contingency on concrete or steel-heavy packages yet.
 
 ## 5. Top 3 Actions Today
 
-1. Resolve the 3D Safety "incomplete" induction status with Maede before tomorrow's Liverpool induction.
-2. Chase Mel Espinosa on the mobile phone reimbursement question if no reply lands by end of day.
-3. Confirm whether today's ExpenseMe supervisor-approval deadline applies to you, and action it if so.
-
----
-
-*Sources: [ABC News](https://www.abc.net.au/news/2026-09-27/sydney-building-collapses-ultimo-second-time-just-weeks-apart/107201530) · [NSW EPA](https://www.epa.nsw.gov.au/Your-environment/Contaminated-land/Stay-up-to-date) · [Grafa](https://grafa.com/en/news/australia/cement-giants-hike-prices-as-building-costs-surge) · [Altus Group](https://www.altusgroup.com/insights/australian-construction-price-outlook-q2-2026/) · [itbrief.com.au](https://itbrief.com.au/story/australia-second-in-construction-tech-adoption-survey)*
-
----
-_Last updated: Tue 29 Sep 2026_
+1. Raise all September invoices today and confirm progress claims went out. Then prep forecasts and accruals for tomorrow's Pronto deadline.
+2. Submit your timesheet early, since it's due Fri 2 Oct at 10am, and chase IT on the number port / reimbursement path.
+3. Confirm with Robert Shah which Malabar document revisions are current, and flag the over-excavation and material-reuse question to the project team.
