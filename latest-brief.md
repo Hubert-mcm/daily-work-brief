@@ -1,57 +1,46 @@
 # Daily Work Brief
 
-_Bookmark this page — it's updated in place each day, so the link stays the same. Open it in your phone's browser (not as a file download) for the best read._
+_Bookmark this page — it is updated in place each day._
 
 ---
 
 # Hubert Work Briefing
 
-**Tuesday 29 September 2026** · Read time ~4 min · All times AEST (Sydney)
+**Tuesday 6 October 2026** · Read time ~3 min · Sydney time
 
 ---
 
-## 1. Today's Top Priorities & Deadlines
+## 1. Top Priorities & Deadlines
 
-- **Fix the 3D Safety induction status.** Maede Asgharpour flagged (Mon 28 Sep, 9:11pm) that your Malabar System Investment Program induction is still showing **incomplete**, despite your confirmation that it was done. Log back in and resolve this before tomorrow's Liverpool site induction.
-- **ExpenseMe supervisor approvals close today (EOD).** Part of the standard month-end finance calendar — confirm whether this applies to you yet as a new starter; action if it does.
-- **Mobile phone reimbursement — reply pending.** You sent Mel Espinosa the signed letter and plan evidence, and asked whether you'll be compensated differently since your plan isn't a fixed rate. No reply yet — chase if you don't hear back today.
-- **Optional:** AP team's September drop-in session is on today — worth a quick drop-by if you have any invoice/PO questions as you get set up in Pronto.
+- **Malabar Liverpool bulk earthworks – follow-up.** You sent Anil (cc Chris Sinclair) the 2-page SOW / opportunities / risks / procurement summary on Mon 5 Oct. Expect questions today. Items most likely to be probed: sandstone supply (~10,860 m³ import, rate and approvals), rates that look too cheap (36t excavator $1,400/day vs ~$1,710 at $180/hr; labour $600/day; compactor $1,550/day), diesel at $2.35/L, ~$25.5k machine floats not flowing through the budget, and the WAE documentation subtotal ($6,750) not flowing to the summary sheet.
+- **Digester tank sludge removal.** SWMS 02 (dewatering of tank) is now rev 08, sent to Tamo on 2 Oct for the new sludge-removal method. Anil has asked Beralon for revised rates and SWMS. Beralon's vac truck must be uploaded to 3DS and inspected on site before use, and all their workers must be inducted. Maede has asked Beralon for team details and documents for 3D Safety onboarding. Acciona inductions run Mon/Wed/Fri after prestart, so the next slot is Wed 7 Oct.
+- **Stormwater pit excavation permit.** Maede's marked-up draft permit (sent 2 Oct) is awaiting your review.
 
 ## 2. Meetings, Commitments & Follow-ups
 
-- **Wed 30 Sep — Liverpool site induction.** Booked by Chris Sinclair (GM NSW) at Maede/Anil's request. Note: your induction/site paperwork is under **Junqi Lin** (name on your white card/licence) — make sure the 3D Safety code issue above is cleared first.
-- **Month-end finance deadlines** (all-day, org-wide, organised by Bec Douglas — confirm which apply to your projects):
-  - **Wed 30 Sep:** Goods receipting for September closes EOD; September progress claims to customers due EOD.
-  - **Thu 1 Oct:** Last day to raise September invoices.
-  - **Fri 2 Oct:** Project forecasts due in Pronto EOD; income accruals (progress claims/RCTIs not yet invoiced) and cost accruals/adjustments due.
-- **Onboarding admin still open:** uniform order F272-04959 (awaiting manager approval); light vehicle F069 allocation confirmed (S496BHG checked out); IT ticket 204641 (vehicle transfer) — response due within 2 business days of Mon 28 Sep.
+- No calendar events found for this week.
+- **Mobile number port-in / reimbursement (ticket 204720).** Mel said to remind her on Tuesday (today) about the SIM. IT (Shashika) needs the SIM number to submit the port-in form.
+- **Parking at 86 Bourke Rd.** The new tenant means a revert to the lease allocation, spaces 1–4 at the front. Check the email for the detail.
+- **Timesheets.** Salaried timesheets for WE 06/10/26 were due last Friday 2 Oct. Confirm yours went in.
 
-## 3. Australian Construction / Civil / Remediation — Last 24–72 Hours
+## 3. Industry News (last 24–72 hours)
 
-Genuine breaking news in this exact window was limited to one item. It's flagged below, followed by still-current developments worth knowing even though they surfaced slightly earlier in September.
+**No verified, dated, meaningful NSW or national construction, civil or remediation update could be confirmed for 3–6 Oct.** Search results mostly returned older items, so nothing is padded in as "new". Items below are context only:
 
-1. **Repeat structural failure at Ultimo demolition site, Sydney (Sat 27 Sep).** Scaffolding on Wattle Street fell onto parked cars in high winds — the same site where a wall collapse injured two workers weeks earlier. No injuries this time. SafeWork NSW attended and issued a prohibition notice; investigation ongoing. — [ABC News](https://www.abc.net.au/news/2026-09-27/sydney-building-collapses-ultimo-second-time-just-weeks-apart/107201530)
-2. **NSW EPA tightening contaminated-land oversight (in effect from 1 Sep, still current).** Cost-recovery fee rose to $117/hr; the new National Harmonised Auditor Accreditation Process for site auditors began; EPA signalled a more proactive stance on flagging smaller/previously-overlooked contaminated sites. — [NSW EPA](https://www.epa.nsw.gov.au/Your-environment/Contaminated-land/Stay-up-to-date)
-3. **Cement and input costs still climbing (Q2/Q3 2026 trend, ongoing).** Concrete/cement up ~5.6% year-to-date, imported cement ~15%, driven by fuel-linked inputs. Steel/rebar is flat-to-down this quarter, but anti-dumping measures on imports could reverse that. — [Grafa](https://grafa.com/en/news/australia/cement-giants-hike-prices-as-building-costs-surge) · [Altus Group](https://www.altusgroup.com/insights/australian-construction-price-outlook-q2-2026/)
-4. **No new state-significant project award or major TfNSW contract announcement in the last 72 hours.** The bigger recent milestones — Western Harbour Tunnel TBM progress, Powerhouse Parramatta building completion, the Hunter M1 extension opening — all landed earlier in the month (or before) and aren't new this week; noted for completeness only.
+1. **Cost pressure persists (ongoing, not new).** Reece and Tradelink logged 98 price-increase notifications effective Q2 2026, averaging 9.2%. The RICS materials cost index reached +86, the highest on record. Copper, piping and petrochemical-linked products are the pinch points. — [Build Australia](https://www.buildaustralia.com.au/news_article/supply-chain-disruption-pushes-building-costs-higher-in-2026/) · [Altus Group](https://www.altusgroup.com/insights/australian-construction-price-outlook-q2-2026/)
+2. **Unwin Street, Earlwood remediation (NSW Government).** Works started July 2026 with completion expected by September. This is a status item to watch for a close-out notice. — [NSW Government](https://www.nsw.gov.au/departments-and-agencies/property-and-development-nsw/what-we-do/contaminated-land-management/unwin-street-site-remediation)
+3. **Western Sydney Airport Metro.** Nearly 1 km of viaduct is complete, Luddenham station foundations are done, four TBMs are running, and opening is targeted for 2027. The article is undated, so treat it as background. — [NSW Government](https://www.nsw.gov.au/media-releases/construction-on-western-sydney-airport-metro-reaches-new-heights-luddenham-as-development-surges-ahead)
 
-**AI/digital construction:** nothing materially new broke this window. For context only: Australia already ranks 2nd globally on weekly construction-tech usage (Autodesk/Deloitte 2026 digital adoption survey, released mid-year) — a standing fact, not this week's news.
+**SafeWork NSW / site incidents:** nothing new verified in this window.
+**AI / digital construction:** no materially relevant development.
 
 ## 4. What This Means for Me
 
-- Raise the Ultimo repeat-collapse as a live example at tomorrow's Liverpool induction — worth asking how that site's scaffold inspection sign-off and high-wind stand-down triggers compare to what's in place there.
-- If any Malabar/Liverpool scopes touch notified or contaminated land, confirm the site auditor accreditation and current EPA cost-recovery rate before locking in timelines or budgets — oversight has genuinely tightened this month.
-- Nothing here should move your cost estimates today, but keep half an eye on cement/concrete pricing if you're about to quote or lock in any concrete-heavy packages.
+- Price risk is real on your Malabar estimate. Diesel at $2.35/L and the low plant rates are the first things to re-check, and sandstone is the biggest exposed line (~10,860 m³).
+- Digester tanks: the vac truck's 3DS upload and on-site inspection, plus inductions, are gating items. Missing the Wed 7 Oct induction slot likely pushes works to Fri 9 Oct.
 
 ## 5. Top 3 Actions Today
 
-1. Resolve the 3D Safety "incomplete" induction status with Maede before tomorrow's Liverpool induction.
-2. Chase Mel Espinosa on the mobile phone reimbursement question if no reply lands by end of day.
-3. Confirm whether today's ExpenseMe supervisor-approval deadline applies to you, and action it if so.
-
----
-
-*Sources: [ABC News](https://www.abc.net.au/news/2026-09-27/sydney-building-collapses-ultimo-second-time-just-weeks-apart/107201530) · [NSW EPA](https://www.epa.nsw.gov.au/Your-environment/Contaminated-land/Stay-up-to-date) · [Grafa](https://grafa.com/en/news/australia/cement-giants-hike-prices-as-building-costs-surge) · [Altus Group](https://www.altusgroup.com/insights/australian-construction-price-outlook-q2-2026/) · [itbrief.com.au](https://itbrief.com.au/story/australia-second-in-construction-tech-adoption-survey)*
-
----
-_Last updated: Tue 29 Sep 2026_
+1. Close out Malabar loose ends: fix the unflowed totals (machine floats, WAE) and re-check the flagged rates before Anil or Chris asks.
+2. Chase Beralon (via Maede / Anil) for revised rates, SWMS and 3D Safety onboarding documents so they make the Wed 7 Oct induction.
+3. Remind Mel about the SIM so Shashika can lodge the port-in, and review Maede's stormwater pit permit.
