@@ -22,7 +22,25 @@
 - **Humus tank depths.** Sent Anil tape-measure estimates (depths vary; no accurate measure possible) — awaiting direction.
 - **Admin:** Mel confirmed you can only select McMahon-branded pants for the clothing order (not the Asurco/Ballestrin ones) — reply with your pick. Phone reimbursement ticket 204720 still open. David (job applicant) acknowledged your referral — nothing needed.
 
-## 3. Australian Construction / Civil / Remediation — Last 24–72 Hours
+## 3. People to Follow Up Today
+
+| Who | Topic | What to chase |
+|---|---|---|
+| Billy | Liverpool import (10,000m³, 500mm CFA pad) | No reply seen since 7 Oct — price and availability |
+| Mina Hemaia (Concrete and Civil Solutions) | Sandstone import, 14/10 | Formal quote and material test report; ~$25/t benchmark |
+| Abdel | Malabar piling pad, 50mm minus | Spec compliance (yes/no) and price |
+| Coates | Liverpool 12–15t smooth drum roller | Confirm delivery Mon 12 Oct, 32 Scrivener St |
+| Sam / Lisa | Roller hire / operator VOC | Confirm booking and Monday VOC |
+| Mitch | Malabar test results | Report by COB Mon 12 Oct |
+| Kevin (Acciona) | Dozer model; sheet piling date 19 Oct | Copy of model; resourcing |
+| Hadi Chaouk | Glenfield import package | Keep him updated on procurement |
+| Kurt / Robert Shah (RCE) | Weston concrete sleeper wall | Kurt's interest (asked 1–2 days); Shah's scope |
+| Anil Basnet | F467 JMP/hammer hire, humus tanks, Sevoke induction link | Answers outstanding |
+| Maede / Guillermo Gomez (AllGeo) | Dewatering review EX02 & EX04 | Respond to comments |
+| Toma | Demolition SWMS Rev 06 | Confirm sign-off |
+| Mel Espinosa | Clothing order, phone reimbursement 204720 | Pick McMahon pants; ticket open |
+
+## 4. Australian Construction / Civil / Remediation — Last 24–72 Hours
 
 **No meaningful new update in the 24–72 hour window.** Searches of NSW EPA, SafeWork NSW, TfNSW/Sydney Metro and trade news returned nothing dated 6–9 Oct that is directly relevant to your work. I haven't padded this section. Nearest items, flagged as slightly older:
 
@@ -34,13 +52,13 @@ Checked, nothing new: NSW EPA contaminated land/enforcement ([EPA newsroom](http
 
 **AI/digital construction:** nothing materially relevant this window.
 
-## 4. What This Means for Me
+## 5. What This Means for Me
 
 - Acciona is signalling more scope for us at Glenfield/Malabar: lock resourcing and a clear variation scope/rates before the 19 Oct piling date so we aren't working ahead of paperwork.
 - Material pricing matters on the piling pad: compare Concrete Solutions' ~$25/t sandstone benchmark against our 50mm-minus option and confirm it meets the spec before committing.
 - Roller delivery and VOC are both pinned to Monday — any slip delays Liverpool compaction work on a 4–5 month programme.
 
-## 5. Top 3 Actions Today
+## 6. Top 3 Actions Today
 
 1. Confirm the Liverpool roller booking (delivery + operator VOC, Mon 12 Oct) and secure Malabar piling pad material pricing/spec compliance.
 2. Respond on the Acciona variation: confirm resources for the 19 Oct sheet piling date and get the dozer model copy from Kevin.
