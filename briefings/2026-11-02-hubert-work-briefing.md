@@ -15,7 +15,7 @@
 2. Prepare for and attend the 1:30 pm AGS earthworks workshop.
 3. Close the Acciona-facing documents: DGB test report/EPA order gaps, diesel spill dockets, Pinnacle SWMS and permit updates.
 
-## 2. Today's Commitments & Meetings
+## 2. This Week's Commitments & Meetings
 - **Mon 2 Nov, all day:** last day to raise October invoices.
 - **Mon 2 Nov, 1:30–2:30 pm:** AGS Tank, Backfilling and Bulk Earthworks Workshop (Mahan Movashahi Asr, Acciona; Teams and Blackheath room; tentative).
 - **Tue 3 Nov:** Pronto forecasts, income accruals and cost accruals due.
