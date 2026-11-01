@@ -1,60 +1,52 @@
 # Hubert Work Briefing
 
-**Wednesday 14 October 2026** · Read time ~3–4 min · All times AEDT (Sydney) · _Outlook read to ~7:00 am_
+**Monday 2 November 2026** · Read time ~3–4 min · All times AEDT (Sydney) · _Outlook read to ~7:00 am (latest email seen Fri 30 Oct)_
 
 ## 1. Today's Top Priorities & Deadlines
-- **Liverpool sandstone import – today (14/10).** Mina Hemaia (Concrete & Civil Solutions) sent her bank-issued letter and attachment late Tue. Review it and confirm the delivery, rate and test report before trucks move.
-- **Liverpool SD roller – onboarding loose ends.** Kennards says the roller left the yard ~5 am Tue and should be on site. Onboarding is uploaded to 3D Safety, but Maede couldn't see it there and Kennards flagged an open plant-requirement item. Confirm it is cleared before the roller works.
-- **Beralon starts Thursday 15 Oct (induction only).** Online inductions have been issued. Still need their SWMS and the Acciona work permits before the commencement date is confirmed.
-- **Sewer grouting RFQ (Liverpool WRRF).** Central Solutions (Andrew Antonios) will quote by **Fri 16 Oct**. Blake Tocher (Pointe Engineering) also replied Tue, so review his response.
-- **Dewatering EX02/EX04.** Maede has agreed the wellpoint arrangement with Pinnacle Hire and written to Guillermo (attachment). Make sure it matches your RL3 bench decision.
-- **Acciona sheet piling establishment: Mon 19 Oct.**
-- **Carried over, no reply seen:** sandstone rate/supplier behind Acciona's $92.10/m³, Abdel's Malabar quotes ($36.50/t and $32.50/t vs ~$25/t benchmark), Mitch's Malabar test report.
+- **Month-end: today is the last day to raise October invoices** (Bec Douglas). **Tue 3 Nov:** project forecasts updated in Pronto by EOD, plus income accruals (progress claims and RCTIs not yet invoiced) and cost accruals/re-accruals.
+- **AGS Tank backfilling and bulk earthworks workshop, today 1:30 pm** (Acciona, Scrivener St, Blackheath L0). Your Fri "brain dump" on crew/resources is the input. Accept the tentative invite.
+- **Dewatering (EX02/EX03, sediment tanks A and B).** Maede sent Pinnacle Hire's method to Andrew for hold points HP-G3/G4. Dewatering is needed before excavating below RL 3.0 m AHD. Humus tank dewatering began 29 Oct, with draw-down at most 300 mm on day one (Anil's note to Acciona).
+- **Dayworks and variations.** Dayworks for 27–30 Oct sent to Tom. Sludge removal is at about $402k, heading to ~$450k, with 330 t disposed. Lost working days and daily site running costs (industrial action variation) sent to Anil.
+- **Open requests to close:** diesel spill dockets (Toma), missing details in the DGB Material Test Report and NSW EPA Recovered Aggregate Order (Nicole Petkovski), Pinnacle SWMS revisions after Acciona comments, and the permit updates asked of Toma.
+- **Training:** MAC Learning "Subcontractor Management Foundations" due 13 Nov.
 
 **Top 3 Actions Today**
-1. Close out the Liverpool sandstone delivery with Mina and the roller onboarding with Kennards/Maede.
-2. Get Beralon's SWMS and permits moving for Thursday's induction.
-3. Settle the sandstone/piling-pad rate position with Hadi and Anil, and chase Mitch's test report.
+1. Raise and confirm all October invoices today, then get your Pronto forecast and accruals ready for Tue EOD.
+2. Prepare for and attend the 1:30 pm AGS earthworks workshop.
+3. Close the Acciona-facing documents: DGB test report/EPA order gaps, diesel spill dockets, Pinnacle SWMS and permit updates.
 
 ## 2. Today's Commitments & Meetings
-- **Calendar:** nothing in Outlook for 14–21 Oct. The Acciona Earthworks Handover was Tue 13 Oct, 8:00 am. Confirm any actions from it.
-- **Today:** sandstone import (Liverpool); roller on site at 32 Scrivener St, Warwick Farm (Zen, Leading Hand, is the site contact).
-- **Thu 15 Oct:** Beralon induction.
-- **Fri 16 Oct:** Central Solutions grouting quote due.
-- **Mon 19 Oct:** Acciona sheet piling establishment.
-- **Done Tue:** first Pronto PO raised after the access fix (Shashika).
+- **Mon 2 Nov, all day:** last day to raise October invoices.
+- **Mon 2 Nov, 1:30–2:30 pm:** AGS Tank, Backfilling and Bulk Earthworks Workshop (Mahan Movashahi Asr, Acciona; Teams and Blackheath room; tentative).
+- **Tue 3 Nov:** Pronto forecasts, income accruals and cost accruals due.
+- **Fri 6 Nov, 10:00 am:** Demolition Weekly Meeting (Bryan Kim, Acciona; accepted). It is recurring, so this is the next one.
+- **13 Nov:** Subcontractor Management Foundations course due.
 
 ## 3. Matters I'm Handling & Facilitating
-- **Plant:** Kennards 15T roller (#1158160) delivered. 3D Safety onboarding visibility is outstanding. Roller VOC was to be organised mid-morning Tue through Lisa Toby (Earthworks Training), and the dump truck ticket/VOC and payment/F467 supplier setup are still in progress.
-- **Materials:** Liverpool sandstone import (Mina); Malabar piling pad (Abdel); Billy's 10,000 m³ import quote still not seen.
-- **Subcontract packages:** sewer grouting and sealing RFQ (Central Solutions, Pointe Engineering); waterline isolation and capping scope sent to Nick.
-- **Dewatering:** Pinnacle Hire methodology agreed with Maede and sent to Guillermo for review.
-- **Beralon:** induction Thursday, SWMS and permits outstanding.
-- **Recruitment:** David Polsangi acknowledged your job application reply.
+- **Dewatering:** Pinnacle Hire layout for the next two systems agreed in principle (Paul Dorigo). Maede is awaiting Acciona sign-off on hold points. Pinnacle SWMS is being revised.
+- **Sewer sludge and liquid waste:** F099 requisition 8602356 (disposal of sewer liquid waste, Demolition Works Package [3]) approved. Goods receipt done and Hadi has approved. Several Pronto POs went out Fri (4277354, 4277361, 4277090) with returns on 4277354.
+- **Plant:** Coates off-hire of Flexdrive, pump and layout in progress (Wadad Barakat).
+- **Materials:** DGB supply compliance (test report and EPA order).
+- **Commercial:** industrial action variation (V0XX), dayworks and sludge removal costs.
+- **Other:** a new supplier was onboarded (AP Queries) and may need invoice requirements passed on. KI Ports Upgrade media coverage note from Kate Traeger: keep any comment internal and don't engage online.
 
 ## 4. People to Follow Up Today
 | Who | Topic | What to chase |
 |---|---|---|
-| Mina Hemaia (Concrete & Civil Solutions) | Liverpool sandstone 14/10 | Review bank letter; confirm delivery, quote and test report |
-| Kennards (Phil Moore, Onboarding NSW, Amanda) | Liverpool roller | Confirm 3D Safety shows full onboarding; close open plant requirement |
-| Andrew Antonios (Central Solutions) | Sewer grouting RFQ | Quote due Fri 16 Oct |
-| Blake Tocher (Pointe Engineering) | Sewer grouting RFQ | Review reply and compare against other quotes |
-| Dylan Julius (Beralon) | Documents | SWMS, permits, start date after Thursday induction |
-| Abdel (LNM) | Malabar piling pad | Negotiate toward ~$25/t; spec compliance (CBR ≥ 8%, PI ≤ 15, fines < 15%) |
-| Billy | Liverpool import (10,000 m³) | Price/availability, no reply seen |
-| Coates | Plant hire | Fallback if roller issues persist |
-| Hadi Chaouk / Anil Basnet | Sandstone rate behind $92.10/m³ | Supplier and $/t basis |
-| Mitch | Malabar test results | Report was due COB Mon, chase |
-| Lisa Toby / Nick / Tracey Zhang | Training payment, F467 | Bank details route; branch manager approval |
-| Paul Dorigo (Pinnacle) / Guillermo / AllGeo | Dewatering EX02/EX04 | Response to the agreed wellpoint arrangement |
-| Nick | Waterline isolation and capping | Catch up on site on your written understanding |
+| Tom (Acciona) | Dayworks 27–30 Oct | Confirmation or sign-off of dayworks and sludge/dewatering items |
+| Anil Basnet | Industrial action variation | Feedback on lost days and running costs; submission timing |
+| Mahan / Bryan (Acciona) | AGS earthworks; dewatering | Workshop outcomes; hold point HP-G3/G4 approval |
+| Andrew (Acciona) | Pinnacle dewatering method | Review and confirmation for EX02/EX03 |
+| Paul Dorigo (Pinnacle Hire) | SWMS and dewatering layout | Updated SWMS addressing Acciona comments |
+| Toma Tamo | Diesel spill dockets; permits | Dockets for removed spill material; updated permits DP-19, 22, 23, 24, 25, 27, 151 |
+| Nicole Petkovski | DGB material | Missing details in test report and EPA Recovered Aggregate Order |
+| Wadad Barakat (Coates) | Off-hire | Confirm collection and final charges |
+| Hadi Chaouk | F099 / PO | Confirm PO approval is complete |
+| Billy / Mina / Abdel | Supply quotes | No new emails seen in the last week; check status on any open import or Malabar quotes |
 
 ## 5. Industry Updates (brief)
-Searches returned little genuinely new for the last 24–72 hours, so I'm flagging dated deadlines instead. Check at source before relying on them.
+No meaningful dated update found for the last 24–72 hours. The searches returned undated or older material only. Check at source before relying on the points below.
 
-1. **NSW EPA, PFAS:** the Chemical Control Order requiring PFAS monitoring at licensed landfills and sewage treatment plants applies from 1 Oct 2026, and PFAS NEMP 3.1 (2 Jun 2026) is now the reference. Relevant if you are receiving or disposing of fill or spoil. — [EPA media release](https://www.epa.nsw.gov.au/news/epamedia/260612-new-pfas-rules-for-landfills-and-sewage-treatment-plants), [EPA position statement](https://www.epa.nsw.gov.au/Your-environment/Chemicals/PFAS-in-NSW/nsw-epa-position-statement-pfas-nemp)
-2. **NSW EPA, waste levy:** 2026–27 rates are $180.20/t (Metropolitan) and $103.80/t (Regional). The next levy payment and monthly report are due **26 Oct**. Disposal cost assumptions need to reflect this. — [EPA levy rates](https://www.epa.nsw.gov.au/Your-environment/Waste/waste-levy/levy-regulated-area-and-levy-rates)
-3. **NSW EPA, site auditors:** applications for the first national harmonised accreditation round close **Thu 15 Oct**. — [EPA contaminated land updates](https://www.epa.nsw.gov.au/Your-environment/Contaminated-land/Stay-up-to-date)
-4. **Western Sydney International Airport:** a 12 Oct commentary says Western Sydney is "entering a new phase of growth" on the back of the airport and Bradfield, which keeps civil and earthworks demand strong in the region. — [Australian Aviation](https://australianaviation.com.au/2026/10/western-sydney-international-airport-tipped-to-underpin-regional-growth-wave)
-
-**SafeWork NSW / TfNSW awards / materials cost / AI-digital:** no meaningful new dated update found.
+- **SafeWork NSW:** the prosecutions page lists recent construction cases, including a 25 Aug 2026 District Court decision on plant safety (SafeWork NSW v SMB Car Transport). There is nothing new this week. — [SafeWork prosecutions](https://www.safework.nsw.gov.au/compliance-and-prosecutions/prosecutions)
+- **NSW EPA contaminated land:** the proposed replacement for the remediation SEPP is still pending, and I found no commencement date. — [EPA contaminated land](https://www.epa.nsw.gov.au/your-environment/contaminated-land)
+- **TfNSW awards, materials cost, supply chain, AI/digital:** no meaningful update found.
