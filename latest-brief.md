@@ -23,12 +23,12 @@
 - **13 Nov:** Subcontractor Management Foundations course due.
 
 ## 3. Matters I'm Handling & Facilitating
-- **Dewatering:** Pinnacle Hire layout for the next two systems agreed in principle (Paul Dorigo). Maede is awaiting Acciona sign-off on hold points. Pinnacle SWMS is being revised.
-- **Sewer sludge and liquid waste:** F099 requisition 8602356 (disposal of sewer liquid waste, Demolition Works Package [3]) approved. Goods receipt done and Hadi has approved. Several Pronto POs went out Fri (4277354, 4277361, 4277090) with returns on 4277354.
-- **Plant:** Coates off-hire of Flexdrive, pump and layout in progress (Wadad Barakat).
-- **Materials:** DGB supply compliance (test report and EPA order).
-- **Commercial:** industrial action variation (V0XX), dayworks and sludge removal costs.
-- **Other:** a new supplier was onboarded (AP Queries) and may need invoice requirements passed on. KI Ports Upgrade media coverage note from Kate Traeger: keep any comment internal and don't engage online.
+- **Dewatering methodology approval:** Pinnacle Hire layout for the next two systems agreed in principle (Paul Dorigo). Maede is awaiting Acciona sign-off on hold points. Pinnacle SWMS is being revised.
+- **Sewer liquid waste disposal (F099/POs):** F099 requisition 8602356 (disposal of sewer liquid waste, Demolition Works Package [3]) approved. Goods receipt done and Hadi has approved. Several Pronto POs went out Fri (4277354, 4277361, 4277090) with returns on 4277354.
+- **Plant offhire:** Coates off-hire of Flexdrive, pump and layout in progress (Wadad Barakat).
+- **Material approval (DGB):** test report and NSW EPA Recovered Aggregate Order need missing details before Acciona accepts supply (Nicole Petkovski).
+- **Variation and dayworks claims:** industrial action variation (V0XX), dayworks and sludge removal costs.
+- **Supplier onboarding and comms:** a new supplier was onboarded (AP Queries) and may need invoice requirements passed on. KI Ports Upgrade media coverage note from Kate Traeger: keep any comment internal and don't engage online.
 
 ## 4. People to Follow Up Today
 | Who | Topic | What to chase |
