@@ -19,7 +19,7 @@
 - **Mon 2 Nov, all day:** last day to raise October invoices.
 - **Mon 2 Nov, 1:30–2:30 pm:** AGS Tank, Backfilling and Bulk Earthworks Workshop (Mahan Movashahi Asr, Acciona; Teams and Blackheath room; tentative).
 - **Tue 3 Nov:** Pronto forecasts, income accruals and cost accruals due.
-- **Fri 6 Nov, 10:00 am:** Demolition Weekly Meeting (Bryan Kim, Acciona; accepted). It is recurring, so this is the next one.
+- **Thu 5 Nov, 10:00 am:** Demolition Weekly Meeting (Bryan Kim, Acciona; accepted).
 - **13 Nov:** Subcontractor Management Foundations course due.
 
 ## 3. Matters I'm Handling & Facilitating
