@@ -10,7 +10,6 @@ Each daily "Hubert Work Briefing" must:
 2. **This Week's Commitments & Meetings** — calendar events, commitments and follow-ups due.
 3. **Matters I'm Handling & Facilitating** — procurement, orders, issues and other matters Hubert is coordinating or facilitating, from recent Outlook emails.
 4. **People to Follow Up Today** — table (Who / Topic / What to chase) built from recent Outlook emails and calendar: unanswered outbound requests, quotes/reports awaited, open tickets, deadlines. Include named suppliers (e.g. Billy, Mina, Abdel, Coates) and colleagues.
-5. **Items I'm Waiting On** — table (Waiting on / Item / Asked / Status) of requests Hubert has sent and is awaiting a response on, from sent Outlook emails and calendar. Keep it to outstanding items; drop anything answered. Section 4 is for actions to chase today, this section is the passive waiting list.
-6. **Industry Updates (brief)** — 3–5 relevant Australian construction/civil/remediation items from the last 24–72 hours with sources, or say there is no meaningful update. AI/digital item only if materially relevant.
+5. **Industry Updates (brief)** — 3–5 relevant Australian construction/civil/remediation items from the last 24–72 hours with sources, or say there is no meaningful update. AI/digital item only if materially relevant.
 
 Do NOT repeat the Top 3 Actions at the bottom, and do NOT include a "What This Means for Me" section.

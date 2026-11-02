@@ -44,18 +44,7 @@
 | Hadi Chaouk | F099 / PO | Confirm PO approval is complete |
 | Billy / Mina / Abdel | Supply quotes | No new emails seen in the last week; check status on any open import or Malabar quotes |
 
-## 5. Items I'm Waiting On
-| Waiting on | Item | Asked | Status |
-|---|---|---|---|
-| Tom (Acciona) | Dayworks 27–30 Oct sign-off | 29–30 Oct | No reply seen |
-| Anil Basnet | Industrial action variation (lost days and running costs) | 30 Oct | No reply seen |
-| Andrew (Acciona) | Review of Pinnacle dewatering method, HP-G3/G4 (EX02/EX03) | 30 Oct (Maede) | Awaiting confirmation |
-| Pinnacle Hire (Paul Dorigo) | Updated SWMS addressing Acciona comments | 30 Oct | Awaiting revision |
-| Toma Tamo | Updated permits DP-19, 22, 23, 24, 25, 27, 151 | 30 Oct | Awaiting update |
-| Coates (Wadad Barakat) | Off-hire of Flexdrive, pump and layout | 28 Oct | Awaiting confirmation |
-| Billy / Mina / Abdel | Open supply quotes | n/a | No emails in the last week; check status |
-
-## 6. Industry Updates (brief)
+## 5. Industry Updates (brief)
 No meaningful dated update found for the last 24–72 hours. The searches returned undated or older material only. Check at source before relying on the points below.
 
 - **SafeWork NSW:** the prosecutions page lists recent construction cases, including a 25 Aug 2026 District Court decision on plant safety (SafeWork NSW v SMB Car Transport). There is nothing new this week. — [SafeWork prosecutions](https://www.safework.nsw.gov.au/compliance-and-prosecutions/prosecutions)
