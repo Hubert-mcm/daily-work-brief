@@ -13,6 +13,10 @@
 - ...
 
 ## 3. Matters I'm Handling & Facilitating
+**Directly involved (I own or am the addressee)**
+- ...
+
+**CC'd / FYI (others are driving)**
 - ...
 
 ## 4. People to Follow Up Today

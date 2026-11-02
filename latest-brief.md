@@ -23,12 +23,19 @@
 - **13 Nov:** Subcontractor Management Foundations course due.
 
 ## 3. Matters I'm Handling & Facilitating
-- **Dewatering methodology approval:** Pinnacle Hire layout for the next two systems agreed in principle (Paul Dorigo). Maede is awaiting Acciona sign-off on hold points. Pinnacle SWMS is being revised.
-- **Sewer liquid waste disposal (F099/POs):** F099 requisition 8602356 (disposal of sewer liquid waste, Demolition Works Package [3]) approved. Goods receipt done and Hadi has approved. Several Pronto POs went out Fri (4277354, 4277361, 4277090) with returns on 4277354.
-- **Plant offhire:** Coates off-hire of Flexdrive, pump and layout in progress (Wadad Barakat).
+**Directly involved (I own or am the addressee)**
+- **Diesel spill dockets:** Toma Tamo (Acciona) asked me directly for the dockets for the removed spill material.
 - **Material approval (DGB):** test report and NSW EPA Recovered Aggregate Order need missing details before Acciona accepts supply (Nicole Petkovski).
-- **Variation and dayworks claims:** industrial action variation (V0XX), dayworks and sludge removal costs.
-- **Supplier onboarding and comms:** a new supplier was onboarded (AP Queries) and may need invoice requirements passed on. KI Ports Upgrade media coverage note from Kate Traeger: keep any comment internal and don't engage online.
+- **Plant offhire:** Coates off-hire of Flexdrive, pump and layout in progress (Wadad Barakat).
+- **Sewer liquid waste disposal (F099/POs):** F099 requisition 8602356 (Demolition Works Package [3]) approved. Goods receipt done and Hadi has approved. Several Pronto POs went out Fri (4277354, 4277361, 4277090) with returns on 4277354.
+- **Variation and dayworks claims:** dayworks 27–30 Oct to Tom, sludge removal costs (~$402k, heading to ~$450k), and lost days and running costs for the industrial action variation (V0XX) to Anil.
+- **Permits and SWMS:** permit updates requested of Toma (DP-19, 22, 23, 24, 25, 27, 151). Pinnacle SWMS revisions requested after Acciona comments.
+
+**CC'd / FYI (others are driving)**
+- **Dewatering methodology approval:** Maede sent Pinnacle Hire's method to AllGeo (Andrew) for hold points HP-G3/G4, with me cc'd. Maede and Anil are also handling the Pinnacle invoice and insurances.
+- **Humus tank dewatering:** Anil's draw-down update to Acciona (pumps on since 29 Oct, draw-down at most 300 mm on day one).
+- **KI Ports Upgrade media coverage (company-wide note, Kate Traeger):** don't comment on the article or respond online. If asked, say "I can't comment on that".
+- **Supplier onboarding:** AP Queries notice about a new supplier and minimum invoice requirements.
 
 ## 4. People to Follow Up Today
 | Who | Topic | What to chase |
