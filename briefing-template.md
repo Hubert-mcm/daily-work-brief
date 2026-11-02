@@ -19,5 +19,9 @@
 | Who | Topic | What to chase |
 |---|---|---|
 
-## 5. Industry Updates (brief)
+## 5. Items I'm Waiting On
+| Waiting on | Item | Asked | Status |
+|---|---|---|---|
+
+## 6. Industry Updates (brief)
 - ... (sources linked; or "No meaningful update")
