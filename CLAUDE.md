@@ -13,3 +13,12 @@ Each daily "Hubert Work Briefing" must:
 5. **Industry Updates (brief)** — 3–5 relevant Australian construction/civil/remediation items from the last 24–72 hours with sources, or say there is no meaningful update. AI/digital item only if materially relevant.
 
 Do NOT repeat the Top 3 Actions at the bottom, and do NOT include a "What This Means for Me" section.
+
+## Email search procedure (do this every run)
+The Outlook search tool caps results (about 25 per call) and returns newest first, so one broad search misses older items. Always:
+1. Check the current Sydney time with get_user_timezone first, and state in the header how far the Outlook read goes.
+2. Search **sent items**: `from:hubert.lin@mcmservices.com.au received>=<start date>`, because outbound requests are the basis of Section 4.
+3. Search inbound mail in date slices (one search per day, or per half day) and by key people: Acciona (Mahan, Toma, Kevin, Nicole, Bryan), Beralon, Coates, Bingo, LNM, Concrete Solutions, Allgeo, Anil, Maede, Hadi.
+4. If any search returns exactly the cap, narrow the dates and search again until it returns fewer than the cap.
+5. Check whether the sender has already replied or acted before listing something as a to-do (for example, an RFI Hubert has already sent should be listed as awaiting a reply, not as an action to send).
+6. Ignore blank-subject items with no recipients (drafts).
