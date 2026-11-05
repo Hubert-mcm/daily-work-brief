@@ -5,6 +5,7 @@
 ## 1. Today's Top Priorities & Deadlines
 - ...
 **Top 3 Actions Today**
+
 1. ...
 2. ...
 3. ...
@@ -14,9 +15,11 @@
 
 ## 3. Matters I'm Handling & Facilitating
 **Directly involved (I own or am the addressee)**
+
 - ...
 
 **CC'd / FYI (others are driving)**
+
 - ...
 
 ## 4. People to Follow Up Today

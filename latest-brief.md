@@ -15,6 +15,7 @@
 - **Ute and belongings:** Mel asked for 3:00 pm at Unit 3/2 Eden Park Drive, Macquarie Park (Fri 6 Nov).
 
 **Top 3 Actions Today**
+
 1. Finish the written handover for Anil/Maede before the 8:30 am meeting: Variation 002, runoff scope, watercart RFI, sandstone and DGB approvals, diesel disposal, Beralon invoicing, Waterline 14 GTGs.
 2. Send Toma the sludge removal cost, and chase Hadi (F099) and Anil (invoice approvals) so the Beralon invoices clear.
 3. Get Sonia to resolve the $998.15 pro forma discrepancy, and confirm with Mahan's team that the Waterline 14 start on 18 Nov works.
@@ -29,6 +30,7 @@
 
 ## 3. Matters I'm Handling & Facilitating
 **Directly involved (I own or am the addressee)**
+
 - **Variation 002 / backfilling (AGS):** sent to Mahan. Awaiting response.
 - **Surface runoff scope (AGS):** sent to Mahan. Awaiting sump design details.
 - **Proof rolling RFI:** 11,000 L watercart, sent to Mahan. No reply.
@@ -47,6 +49,7 @@
 - **Sewer sludge classification costs:** Jake (Beralon) replied "No worries".
 
 **CC'd / FYI (others are driving)**
+
 - **Sed Tank B excavation and services clash:** Maede and Anil. EX03 is fine. EX02 and EX04 need comments addressed, plus design and design check certificates.
 - **Geotech advice to Acciona (Anil to Bryan/Mahan).**
 - **Kinvara overdue invoice (Waterline 14):** Maede and Anil.
