@@ -1,80 +1,82 @@
 # Hubert Work Briefing
 
-**Thursday 5 November 2026** · Read time ~3–4 min · All times AEDT (Sydney) · _Checked at 7:09 am Thu 5 Nov. Outlook read covers Mon 2 Nov to Wed 4 Nov ~9:37 pm (latest email seen was an automated CAAPS notice), including sent items. Nothing has arrived yet today._
+**Thursday 5 November 2026** · Read time ~3–4 min · All times AEDT (Sydney) · _Refreshed at 3:07 pm Thu 5 Nov. Outlook read covers Mon 2 Nov to Thu 5 Nov ~3:07 pm, including sent items._
 
 ## 1. Today's Top Priorities & Deadlines
-- **Demolition Weekly Meeting, 10:00 am today** (Bryan Kim, Acciona; Teams and MSA George St L5 Redfern Creek; accepted).
-- **Mahan has still not replied to your three emails** (Variation 002 backfilling, AGS surface runoff scope, 11,000 L watercart RFI). His only reply yesterday (3:50 pm) was to Maede on EX02/03/04. Raise them at the meeting.
-- **EX02 / EX03 / EX04 design packages:** EX03 is fine. EX02 and EX04 have highlighted comments. All three need design and design check certificates with updated revision numbers and dates. Maede is driving.
-- **Allgeo geotech advice (inspection 4 Nov):** Allgeo (Andrew Zakkour) set out levels and methodology for the West humus tank (base about RL 1.5, excavation about 1.5 m), the East humus tank (base about RL 0.5, about 2.5 m, demolished in halves with a 2H:1V zone of influence) and Sed Tank A (about 3.0–3.5 m deep). Anil sent it to Bryan and Mahan, with you in Cc. Anil also said Sed Tank B needs a memo, because excavation to RL 2 with dewatering goes past the previous RL 3 cutoff.
-- **Beralon invoices and POs:** the first three POs (4277664, 4277671, 4277673) are approved and GR'd by you. They need Anil's invoice approval. PO 4277674 ($172,638.60) is still waiting on F099-379892 with Hadi, then Chris.
-- **Sludge removal cost to Acciona:** you told Toma on Tue you'd finalise it "by tomorrow", and Anil wanted it by Wed so a VQR can be raised. I can't see it sent. You asked Jake (Beralon) about sludge classification costs, and Jake replied "No worries" (Wed ~8:55 pm). The "Hi Toma," item is an empty draft.
-- **Kennards water frogger offhire:** you corrected the request to offhire one unit and keep one onsite. Amanda forwarded it to Site Services Sydney (Wed ~5:10 pm). Pickup should be today.
-- **Last day Fri 6 Nov.** Mel asked you to come to Macquarie Park at **3:00 pm** (you replied "Copy that"). Earlier you had suggested 4 pm.
+- **Handover meeting tomorrow, Fri 6 Nov, 8:30–9:30 am** (Teams, organised by you, 4 attendees; Nathan has accepted). This is your last day.
+- **Mahan has still not replied** to your three emails (Variation 002 backfilling, AGS surface runoff scope, 11,000 L watercart RFI). I found no inbound Acciona email today. Put all three into the handover.
+- **Waterline 14 and slab reinstatement:** you raised GTG_34326 (Waterline 14 disconnection) and GTG_34327 (slab reinstatement) this morning, both proposed to start Wed 18 Nov. You told Kinvara (Michael) about the GTG. Kinvara's invoice 2026042-02 is overdue and they want a payment date (Maede and Anil are handling).
+- **Liverpool slab reinstatement (Aidan):** the concrete spec is approved, Sydney Water's industrial action has ended for now, and the permit was raised this morning.
+- **Beralon pro forma and POs:** you sent Sonia the POs and cost breakdown for 2–3 Nov (one PO per day). You also flagged that last week's pro forma ($230,103.85) was $998.15 above the invoices (excl. GST). Awaiting her answer.
+- **Beralon invoices (BER AR 001720–001723):** the first three POs (4277664, 4277671, 4277673) are GR'd and need Anil's invoice approval. PO 4277674 ($172,638.60) is still waiting on F099-379892 with Hadi, then Chris.
+- **Sludge removal cost to Toma:** promised for Wed and needed so Anil can raise a VQR. I can't see it sent. The "Hi Toma," item is an empty draft.
+- **Diesel cost estimate (buffer tank):** you forwarded it to Kevin to close out.
+- **Mitch (enviro testing):** you asked Beralon to include his $1,660 + GST on their invoice, and told Mitch to invoice Beralon directly.
+- **Ute and belongings:** Mel asked for 3:00 pm at Unit 3/2 Eden Park Drive, Macquarie Park (Fri 6 Nov).
 
 **Top 3 Actions Today**
-1. Use the 10:00 am Demolition meeting to get answers from Mahan/Bryan on Variation 002, the runoff and sump scope, and the watercart RFI.
-2. Send Toma the finalised sludge removal cost, and get Hadi's F099 and Anil's invoice approvals done so the Beralon invoices clear.
-3. Hand over open items to Anil/Maede in writing before tomorrow: Variation 002, runoff scope, sandstone and DGB approvals, diesel disposal, supplier onboarding, Beralon invoicing and Coates/Kennards offhire.
+1. Finish the written handover for Anil/Maede before the 8:30 am meeting: Variation 002, runoff scope, watercart RFI, sandstone and DGB approvals, diesel disposal, Beralon invoicing, Waterline 14 GTGs.
+2. Send Toma the sludge removal cost, and chase Hadi (F099) and Anil (invoice approvals) so the Beralon invoices clear.
+3. Get Sonia to resolve the $998.15 pro forma discrepancy, and confirm with Mahan's team that the Waterline 14 start on 18 Nov works.
 
 ## 2. This Week's Commitments & Meetings
-- **Thu 5 Nov, 10:00 am:** Demolition Weekly Meeting (Bryan Kim; Teams and Redfern Creek).
-- **Fri 6 Nov:** your last day. Return the ute and belongings to Unit 3/2 Eden Park Drive, Macquarie Park at 3:00 pm (Mel's time).
-- **Next Wed 11 Nov, 10:00 am:** Demolition Weekly Meeting (calendar). It falls after your last day, so pass it on to Maede/Anil.
+- **Fri 6 Nov, 8:30 am:** Hubert handover (Teams).
+- **Fri 6 Nov, 3:00 pm:** return the ute and belongings, Macquarie Park. Your last day.
+- **Wed 11 Nov, 10:00 am:** Demolition Weekly Meeting (Bryan Kim). After your last day, so hand it to Maede/Anil.
+- **Wed 18 Nov:** proposed start for Waterline 14 disconnection and slab reinstatement (GTG_34326 and GTG_34327).
 - **Earthworks next stage (~2 weeks):** Jerry asked for supplier onboarding details and a D6 quote (one rate with fuel, one without).
-- **Waterline 14 capping works:** Kinvara's invoice 2026042-02 is now overdue and they want a payment date (Maede is the addressee, you are on To). Raise the GTG once Mahan confirms the site is ready.
-- **FRP works PO (Aidan):** waiting on Sydney Water approval.
-- **13 Nov:** Subcontractor Management Foundations course due. This is after your last day, so check whether it still applies.
-- **October draft results** (Rachelle Brand, Intract): ready for review in Power BI, no action seen for you.
+- **13 Nov:** Subcontractor Management Foundations course due. After your last day, so check whether it still applies.
 
 ## 3. Matters I'm Handling & Facilitating
 **Directly involved (I own or am the addressee)**
 - **Variation 002 / backfilling (AGS):** sent to Mahan. Awaiting response.
 - **Surface runoff scope (AGS):** sent to Mahan. Awaiting sump design details.
 - **Proof rolling RFI:** 11,000 L watercart, sent to Mahan. No reply.
-- **Humus tank depths (Allgeo):** you sent photos, a sketch and estimated base levels. Andrew replied with a summary and methodology (see Section 1).
-- **Beralon invoicing:** four POs and four invoices (BER AR 001720–001723). The proforma for 26–30 Oct and the 3 Nov dockets are with Sonia/Jake. The iTreat hooktruck hours were still TBA.
-- **Sewer sludge classification costs:** you asked Jake (Beralon) about the Coleman Adams classification. He replied "No worries".
+- **Waterline 14 / slab reinstatement:** GTGs raised, start 18 Nov proposed. Spec approved.
+- **Beralon invoicing:** four invoices, four POs. New pro forma and POs for 2–3 Nov sent. $998.15 discrepancy raised. Hooktruck hours were TBA.
+- **Mitch costs:** $1,660 + GST, via Beralon's invoice.
+- **Diesel cost estimate (buffer tank):** with Kevin.
+- **Humus tank depths (Allgeo):** Andrew's advice received Wed (West tank base about RL 1.5, East about RL 0.5, Sed Tank A about 3.0–3.5 m deep). Anil says Sed Tank B needs a memo, because excavation to RL 2 with dewatering goes past the previous RL 3 cutoff.
 - **Material approval (sandstone):** Kevin has the testing and is working through the S143 first.
 - **DGB for temporary works:** CBR report sent to Nicole. Awaiting her reply.
-- **Piling pad rates:** Abdel (LNM) sent rates. The attachment hasn't been reviewed.
-- **Diesel spill disposal:** skip bins with Bingo (Kon). Toma has been told disposal is still being organised.
-- **Plant offhire (Coates):** two Liverpool EWPs. You asked Wadad for a pickup ETA on Tue night and I haven't seen an answer.
-- **Plant offhire (Kennards):** water froggers, now offhiring one only (see Section 1).
-- **Liverpool sandstone dockets:** you asked Mina to chase two missing dockets from the last day of import.
-- **Supplier set-up:** Mitch has been asked to reply to the account email.
+- **Piling pad rates:** Abdel (LNM) sent rates. Not reviewed.
+- **Diesel spill disposal:** skip bins with Bingo (Kon). Toma knows it's still being organised.
+- **Plant offhire (Coates):** two Liverpool EWPs. Pickup ETA asked of Wadad, no answer seen.
+- **Plant offhire (Kennards):** one water frogger offhire, the other stays on site.
+- **Liverpool sandstone dockets:** two missing dockets chased with Mina.
+- **Sewer sludge classification costs:** Jake (Beralon) replied "No worries".
 
 **CC'd / FYI (others are driving)**
-- **Sed Tank B excavation and services clash:** Maede and Anil are handling the Alliance remodel and the time and cost advice. The Alliance excavation stability inspection report arrived Wed.
-- **EX02 / EX03 / EX04 design certificates:** Maede replies to Mahan.
-- **Geotech advice to Acciona (Anil to Bryan/Mahan):** you are in Cc.
-- **Kinvara overdue invoice (Waterline 14):** Maede and Anil handling payment.
+- **Sed Tank B excavation and services clash:** Maede and Anil. EX03 is fine. EX02 and EX04 need comments addressed, plus design and design check certificates.
+- **Geotech advice to Acciona (Anil to Bryan/Mahan).**
+- **Kinvara overdue invoice (Waterline 14):** Maede and Anil.
 - **Malabar plant offhire (JC Excavations):** Ricardo and Maede.
-- **CAAPS "Work Pending" notice and Intract draft results:** system or broadcast mail.
+- **Intract October draft results; CAAPS notices:** broadcast or system mail.
 
 ## 4. People to Follow Up Today
 | Who | Topic | What to chase |
 |---|---|---|
-| Mahan (Acciona) | Variation 002, runoff scope, watercart RFI | Replies on all three. Also when the GTG for Waterline 14 can be raised |
+| Mahan (Acciona) | Variation 002, runoff scope, watercart RFI | Replies on all three, or pass to Maede/Anil |
 | Toma Tamo (Acciona) | Sludge removal cost | Send the finalised total so the VQR can proceed |
 | Hadi | F099 for PO 4277674 | Approve and pass to Chris |
 | Anil | Beralon invoices | Approve the three invoices you have GR'd |
-| Andrew (Allgeo) | Humus tank / Sed Tank advice | Confirm the memo for Sed Tank B (RL 2 with dewatering) is coming |
-| Kevin Giang (Acciona) | Sandstone approval | Progress on the S143 |
+| Sonia (Beralon) | Pro forma discrepancy | $998.15 difference on last week's pro forma, and the new 2–3 Nov POs |
+| Kevin Giang (Acciona) | Sandstone S143 and diesel estimate | Progress on the S143, and close-out of the buffer tank diesel estimate |
 | Nicole Petkovski (Acciona) | DGB20 temporary works | Whether the CBR report and PSD-based coefficient are accepted |
+| Andrew (Allgeo) | Sed Tank B | Memo for excavation to RL 2 with dewatering |
 | Kon (Bingo) | Diesel spill skip bins | Has his team contacted you? Booking and docket |
-| Abdel (LNM Solutions) | Piling pad rates | Review the rates sent, and decide on a waste classification report |
+| Abdel (LNM Solutions) | Piling pad rates | Review the rates, and decide on a waste classification report |
 | Jerry | Earthworks supplier onboarding | Onboarding details and the D6 quote (fuel and no fuel) |
 | Mina (Concrete Solutions) | Missing import dockets | The two dockets from the last day of import |
 | Wadad (Coates) | EWP offhire | Pickup ETA and final charges |
-| Amanda (Kennards) | Water frogger offhire | Confirm only one unit is collected and the offhire date |
-| Sonia / Jake (Beralon) | Proforma and dockets | Proforma review and the TBA hooktruck hours |
-| Mitch | Account set-up | Reply to the account email |
+| Amanda (Kennards) | Water frogger offhire | Confirm one unit collected, one stays |
+| Aidan | FRP and slab works | Permit is raised. Confirm start date on 18 Nov |
 | Billy | Supply quotes | No recent emails seen, so check status of any open quote |
 
 ## 5. Industry Updates (brief)
-No confirmed NSW news dated in the last 24–72 hours. Searches surfaced the items below, but I couldn't verify their publication dates, so treat them as background.
+No confirmed NSW news from the last 24–72 hours.
 
-- **NSW EPA, construction and demolition waste:** a search summary says the EPA has a consultation on new minimum standards for managing C&D waste (launched 21 Oct, closing 17 Nov, forums in Parramatta and Newcastle on 3–4 Nov). I couldn't open the page to confirm the year, so check the EPA site. It matters for import material and spoil disposal. — [Waste Management Review](https://wastemanagementreview.com.au/epansw-cd-waste-recycling-proposals/)
-- **Recycled fill compliance:** reporting says the Premier met the EPA over non-compliant recovered fines and that the rules may be reviewed. Dates unconfirmed. — [inkl](https://inkl.com/news/nsw-premier-says-construction-waste-recycling-rules-may-be-reviewed-as-widespread-compliance-issues-revealed)
+- **Correction to this morning's briefing:** I listed an EPA consultation on C&D waste minimum standards (launched 21 Oct, closing 17 Nov) as current. Further searching shows that consultation ran in 2016 and the standards took effect on 15 May 2019, so please disregard it. — [Clayton Utz](https://www.claytonutz.com/knowledge/2018/december/nsw-waste-reform-package-takes-effect)
+- **Recycled fill compliance:** reporting says the Premier met the EPA over non-compliant recovered fines and that the rules may be reviewed. Publication date unconfirmed, so treat it as background for import material and spoil disposal. — [inkl](https://inkl.com/news/nsw-premier-says-construction-waste-recycling-rules-may-be-reviewed-as-widespread-compliance-issues-revealed)
+- **Sydney Water industrial action:** your email says it has ended for now. I could not find a public report confirming the settlement. The latest report I found is from September 2026 (rotating stoppages and work bans). — [GPA](https://gpa.net/blogs/top-posts/australia-sydney-water-workers-take-industrial-action-over-payment-disruptions)
 - **TfNSW awards, SafeWork NSW incidents, material costs, AI/digital:** no meaningful update found.
